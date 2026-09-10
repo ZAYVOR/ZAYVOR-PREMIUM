@@ -64,7 +64,7 @@ warn("[ZAYVOR] AMARAN: Jangan mencuri nanti kena blacklist!")
 
 -- [ SCRIPT EXECUTION ]
 local success, result = pcall(function()
-    loadstring(game:HttpGet("https://u.gy/ueMxpS"))()
+    loadstring(game:HttpGet("https://api.obscuravm.com/scripts/7355089311971942613"))()
 end)
 
 if success then
